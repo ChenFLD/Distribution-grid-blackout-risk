@@ -41,8 +41,7 @@ The `/data` folder includes files necessary to demonstrate code functionality:
    - Follow the [MATPOWER installation guide](https://matpower.org/docs/MATPOWER-manual.pdf).
 2. Clone this repository and add it to your MATLAB path:
    ```bash
-   git clone https://github.com/YourUsername/ProjectName.git
-   cd ProjectName
+   git clone [https://github.com/ChenFLD/Distribution-grid-blackout-risk]
    ```
    Estimated Installation Time: ~10 minutes.
 
